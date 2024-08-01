@@ -8,7 +8,7 @@ function setup() {
 
 function palavraAleatoria() {
   
-  let palavras = ["Caminhante", "Caminho", "Caminha"];
+  let palavras = ["Hello World" ];
   
   return random(palavras);
 }
